@@ -1,7 +1,7 @@
 #!/bin/bash
 
 while true; do
-sleep 10
+sleep 15
 xsetroot -name "`acpi` `date`";
 done
 
